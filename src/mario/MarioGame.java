@@ -161,6 +161,7 @@ public class MarioGame extends GameApp {
 		setting.setWidth(1720);
 		setting.setHeight(880);
 		setting.setTitle("Hello World!");
+		setting.setDebugWindows();
 	}
 	
 }
